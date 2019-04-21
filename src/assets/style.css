@@ -86,7 +86,7 @@ header.sticky {
 .logo h1 a{
 	font-size:24px;
 	font-weight:700;
-	color:#fff;	
+	color:#fff;
 }
 
 nav {
@@ -119,7 +119,7 @@ nav ul li a:hover {
 }
 
 .banner{
-	background:url(images/banner.jpg) no-repeat center center;	
+	background:url(images/banner.jpg) no-repeat center center;
 	min-height:800px;
 	background-size:cover;
 	position:relative;
@@ -129,7 +129,7 @@ nav ul li a:hover {
 	font-size:24px;
 	line-height:60px;
 	padding-top:290px;
-	font-weight:300;	
+	font-weight:300;
 }
 .banner h1{
 	color:#fff;
@@ -137,7 +137,7 @@ nav ul li a:hover {
 	line-height:60px;
 	font-weight:700;
 	text-transform:uppercase;
-	margin:10px 0 30px;	
+	margin:10px 0 30px;
 }
 .banner a{
 	padding:17px 30px;
@@ -146,7 +146,7 @@ nav ul li a:hover {
 	line-height:100%;
 	font-weight:700;
 	text-align:center;
-	display:inline-block;	
+	display:inline-block;
 	border-radius:3px;
 	margin-right:20px;
 }
@@ -155,18 +155,18 @@ a.whiteone , a.redone:hover{border:2px solid #fff; background:none; transition:a
 
 .history{
 	padding:100px 0;
-	border-bottom:1px solid #f1f1f1;	
+	border-bottom:1px solid #f1f1f1;
 }
 .history h2{
-	padding-top:100px;	
+	padding-top:100px;
 }
-.history p{ 
+.history p{
 	line-height:30px;
 	font-weight:300;
 }
 
 .work{
-	padding:100px 0 90px;	
+	padding:100px 0 90px;
 }
 .work h3{ text-align:center;}
 .work img{margin:15px auto; display:block;}
@@ -175,15 +175,15 @@ a.whiteone , a.redone:hover{border:2px solid #fff; background:none; transition:a
 	color: #e92121;
 	font-size:70px;
 	margin-top:70px;
-	margin-bottom:30px;	
+	margin-bottom:30px;
 }
 .work p{font-size:15px; margin-top:20px;}
 .mainslide{
 	padding:110px 0;
-	background:#faf9f9;	
+	background:#faf9f9;
 }
 .mainslide h3{
-	margin-top:45px;	
+	margin-top:45px;
 }
 .sizeed{margin:20px 0;}
 .mainslide p{padding-bottom:35px; font-size:18px; line-height:30px;}
@@ -194,7 +194,7 @@ a.whiteone , a.redone:hover{border:2px solid #fff; background:none; transition:a
 	line-height:100%;
 	font-weight:700;
 	text-align:center;
-	display:inline-block;	
+	display:inline-block;
 	border-radius:3px;
 	margin-right:20px;
 	background:#e92121; border:2px solid #e92121;
@@ -202,33 +202,33 @@ a.whiteone , a.redone:hover{border:2px solid #fff; background:none; transition:a
 .mainslide a.learn:hover{background:#333;; border:2px solid #333; transition:all 0.4s;}
 
 .whywe{
-	padding:25px 0 90px;	
+	padding:25px 0 90px;
 }
 .whywe h2{padding-top:140px;}
 .whywe h4{
 	padding-top:70px;
-	padding-bottom:15px;	
+	padding-bottom:15px;
 }
 .whywe p{font-weight:300;}
 
 .width4{
 	width:25%;
-	float:left;	
+	float:left;
 }
 .width4 img{width:100%; display:block;}
 .width8{width:50%; float:left; padding:70px 0 0 45px;}
 .width8 h2{margin-bottom:20px;}
 .iteams p{
-	line-height:30px; 
+	line-height:30px;
 	font-weight:300;
-	padding:45px 0 90px;	
+	padding:45px 0 90px;
 }
 
 #customer{background:#faf9f9;}
 .width20{width:20%; float:left;}
 .width80{width:80%; float:left;}
 .customer{
-	padding:100px 0 0px;	
+	padding:100px 0 0px;
 }
 .customer h3{ text-align:center;}
 .customer img{margin:15px auto; display:block;}
@@ -250,19 +250,19 @@ footer{background:#141414; padding:70px 0;}
 footer h1 a{
 	font-size:24px;
 	font-weight:700;
-	color:#fff;	
+	color:#fff;
 	margin-bottom:60px;
 	display:block;
 }
 .social-f{
 	text-align:right;
-	margin-bottom:60px;	
+	margin-bottom:60px;
 }
 .social-f a{
 	display:inline-block;
 	margin-left:13px;
 	color:#474747;
-	font-size:22px;	
+	font-size:22px;
 }
 footer p , footer p a{text-align:right; color:#474747; font-weight:300;}
 footer ul li{width:50%; float:left; margin-top:10px;}
@@ -286,7 +286,7 @@ footer p a:hover , footer ul li a:hover{text-decoration:underline;}
 }
 /*LOADER EFFECT*/
 /*Paste this css to your style sheet file or under head tag*/
-/* This only works with JavaScript, 
+/* This only works with JavaScript,
 if it's not present, don't show loader */
 .no-js #loader { display: none;  }
 .js #loader { display: block; position: absolute; left: 100px; top: 0; }
